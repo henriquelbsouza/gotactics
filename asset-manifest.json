@@ -1,15 +1,15 @@
 {
-  "main.css": "/gotactics/static/css/main.188cd50d.chunk.css",
-  "main.js": "/gotactics/static/js/main.6d02a69c.chunk.js",
-  "main.js.map": "/gotactics/static/js/main.6d02a69c.chunk.js.map",
+  "main.css": "/gotactics/static/css/main.0c56bde7.chunk.css",
+  "main.js": "/gotactics/static/js/main.bb9242df.chunk.js",
+  "main.js.map": "/gotactics/static/js/main.bb9242df.chunk.js.map",
   "runtime~main.js": "/gotactics/static/js/runtime~main.20b1906b.js",
   "runtime~main.js.map": "/gotactics/static/js/runtime~main.20b1906b.js.map",
-  "static/js/2.eafa5136.chunk.js": "/gotactics/static/js/2.eafa5136.chunk.js",
-  "static/js/2.eafa5136.chunk.js.map": "/gotactics/static/js/2.eafa5136.chunk.js.map",
+  "static/js/2.65cbb661.chunk.js": "/gotactics/static/js/2.65cbb661.chunk.js",
+  "static/js/2.65cbb661.chunk.js.map": "/gotactics/static/js/2.65cbb661.chunk.js.map",
   "index.html": "/gotactics/index.html",
-  "precache-manifest.92e090205a2bd3c58caf4afa41f197b2.js": "/gotactics/precache-manifest.92e090205a2bd3c58caf4afa41f197b2.js",
+  "precache-manifest.d5d945f57cf7963e246ffd7eeffefe96.js": "/gotactics/precache-manifest.d5d945f57cf7963e246ffd7eeffefe96.js",
   "service-worker.js": "/gotactics/service-worker.js",
-  "static/css/main.188cd50d.chunk.css.map": "/gotactics/static/css/main.188cd50d.chunk.css.map",
+  "static/css/main.0c56bde7.chunk.css.map": "/gotactics/static/css/main.0c56bde7.chunk.css.map",
   "static/media/de_cache_radar.png": "/gotactics/static/media/de_cache_radar.bdad0cbd.png",
   "static/media/de_cbble_radar.png": "/gotactics/static/media/de_cbble_radar.77e47375.png",
   "static/media/de_dust2_radar.png": "/gotactics/static/media/de_dust2_radar.e15c848f.png",
@@ -17,5 +17,6 @@
   "static/media/de_mirage_radar.png": "/gotactics/static/media/de_mirage_radar.22288998.png",
   "static/media/de_nuke_both.png": "/gotactics/static/media/de_nuke_both.16b7555c.png",
   "static/media/de_overpass_radar.png": "/gotactics/static/media/de_overpass_radar.93291cb6.png",
-  "static/media/de_train_radar.png": "/gotactics/static/media/de_train_radar.3ab115c6.png"
+  "static/media/de_train_radar.png": "/gotactics/static/media/de_train_radar.3ab115c6.png",
+  "static/media/de_vertigo_both.png": "/gotactics/static/media/de_vertigo_both.4b5be20a.png"
 }
